@@ -3,7 +3,8 @@ Trabalho de busca binária
 
 ## Introdução
 
-O código desde trabalho compara o CEP procurado com os arquivo 'cep_ordenado.dat' da aula3 no drop box das aulas de arquivos (*https://cutt.ly/gF3WU36*). \n
+O código desde trabalho compara o CEP procurado com os arquivo 'cep_ordenado.dat' da aula3 no drop box das aulas de arquivos (*https://cutt.ly/gF3WU36*). 
+
 **Para que o código funcione, é necessário que o arquivo 'cep_ordenado.dat' seja baixado no drop box e colocado na mesma pasta que o repositório quando baixar o mesmo, pois era um arquivo muito grande para se por no GitHub!!!**
 
 ## Como usar
