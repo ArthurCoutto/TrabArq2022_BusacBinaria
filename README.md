@@ -10,10 +10,13 @@ O código desde trabalho compara o CEP procurado com os arquivo 'cep_ordenado.da
 ## Como usar
 
 Uma vez baixados o código e o arquivo necessário, basta ir no terminal/prompt de comando e ir para o diretório do código.(E um compilador propriado, como o MingW para Windows)
+
 Feito isso, digite 'gcc -o [nome que deseja dar ao executável] BuscaBinaria.c' para criar o executável.
+
 Como passo final, digite '[nome do executavel] [CEP que deseja achar]' e o arquivo tentará encontrar o CEP, retornando o número de tentativas e, caso encontre, as informações do CEP.
 
 ## Caso falhe
 
 -Verifique se tem um compilador GCC, para Windows, recomendado MingW.
+
 -Verifique se o nome de tudo foi digitado corretamente, inclusive letras maiúsculas vs minúsculas.
