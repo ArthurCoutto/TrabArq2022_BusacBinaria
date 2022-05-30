@@ -1,2 +1,2 @@
-# TrabArq2022_BusacBinaria
+# TrabArq2022_BusBinaria
 Trabalho de busca binária
